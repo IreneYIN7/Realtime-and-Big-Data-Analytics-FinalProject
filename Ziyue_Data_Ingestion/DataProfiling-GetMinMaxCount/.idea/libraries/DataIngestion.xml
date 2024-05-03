@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="DataIngestion">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/DataIngestion.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
